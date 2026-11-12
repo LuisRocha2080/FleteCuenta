@@ -1,0 +1,13 @@
+{
+  "name": "fletecuenta",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Control de viajes de carga: flete cobrado, gastos de ruta y utilidad por viaje y por camión.",
+  "license": "MIT",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "test": "jest --passWithNoTests",
+    "typecheck": "tsc --noEmit"
+  }
+}
