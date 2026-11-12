@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "FleteCuenta",
+    "slug": "fletecuenta",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "scheme": "fletecuenta",
+    "plugins": [
+      "expo-router",
+      "expo-sqlite"
+    ],
+    "android": {
+      "package": "com.luisrocha2080.fletecuenta"
+    },
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
