@@ -12,3 +12,5 @@ Formato basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/) y 
 - Preparación inicial del repositorio para las fases del roadmap.
 
 - Ajuste menor de documentación 6.
+
+- Ajuste menor de documentación 9.
